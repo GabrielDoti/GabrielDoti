@@ -17,27 +17,27 @@
 <!--<td><a href="https://replit.com/@aramuni"><img src="https://joaopauloaramuni.github.io/image/replit3.svg?raw=true" width="50px" height="50px"/></a>-->
 <!-- Portfolio    <td><a href="https://aramuni.dev/"><img src="https://joaopauloaramuni.github.io/image/portfolio3.png?raw=true" width="50px" height="50px"/></a>
 </td>-->
-<td><a href="https://github.com/GabrielDoti" target="_blank"><img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://github.com/GabrielDoti" target="_blank"><img src="https://github.com/GabrielDoti/GabrielDoti/blob/main/img/github5.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="mailto:gabrieldoti69@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="mailto:gabrieldoti69@gmail.com" target="_blank"><img src="https://github.com/GabrielDoti/GabrielDoti/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.me/5531971333671" target="_blank"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://wa.me/5531971333671" target="_blank"><img src="https://github.com/GabrielDoti/GabrielDoti/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/gabriel.doti/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/gabriel.doti/" target="_blank"><img src="https://github.com/GabrielDoti/GabrielDoti/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/gabriel-doti-33691b423/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/gabriel-doti-33691b423/" target="_blank"><img src="https://github.com/GabrielDoti/GabrielDoti/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<!-- lattes   <td><a href="http://lattes.cnpq.br/1208427665892059" target="_blank"><img src="https://joaopauloaramuni.github.io/image/lattes2.png?raw=true" width="50px" height="50px"/></a>
+<!-- lattes   <td><a href="http://lattes.cnpq.br/1208427665892059" target="_blank"><img src="https://github.com/GabrielDoti/GabrielDoti/blob/main/img/lattes2.png?raw=true" width="50px" height="50px"/></a>
 </td> -->
-<!-- slack  <td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://joaopauloaramuni.github.io/image/slack.png?raw=true" width="50px" height="50px"/></a>
+<!-- slack  <td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://github.com/GabrielDoti/GabrielDoti/blob/main/img/slack.png?raw=true" width="50px" height="50px"/></a>
 </td>-->
-<!-- discord   <td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://joaopauloaramuni.github.io/image/discord2.png?raw=true" width="50px" height="50px"/></a>
+<!-- discord   <td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://github.com/GabrielDoti/GabrielDoti/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
 </td>-->
-<!--  skoob  <td><a href="https://www.skoob.com.br/perfil/Aramuni" target="_blank"><img src="https://joaopauloaramuni.github.io/image/skoob2.png?raw=true" width="50px" height="50px"/></a>
+<!--  skoob  <td><a href="https://www.skoob.com.br/perfil/Aramuni" target="_blank"><img src="https://github.com/GabrielDoti/GabrielDoti/blob/main/img/skoob2.png?raw=true" width="50px" height="50px"/></a>
 </td> -->
-<!-- googleacademico   <td><a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank"><img src="https://joaopauloaramuni.github.io/image/scholar2.png?raw=true" width="50px" height="50px"/></a>
+<!-- googleacademico   <td><a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank"><img src="https://github.com/GabrielDoti/GabrielDoti/blob/main/img/scholar2.png?raw=true" width="50px" height="50px"/></a>
 </td> -->
-<!-- calendariogoogle <td><a href="https://calendly.com/aramuni/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/calendar2.png?raw=true" width="50px" height="50px"/></a> -->
+<!-- calendariogoogle <td><a href="https://calendly.com/aramuni/" target="_blank"><img src="https://github.com/GabrielDoti/GabrielDoti/blob/main/img/calendar2.png" width="50px" height="50px"/></a> -->
 </td>
 </tr>
 <tr>
