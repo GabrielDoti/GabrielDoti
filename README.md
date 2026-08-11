@@ -107,7 +107,7 @@
   </tr>
   <tr>
     <!--<td align="center"><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://joaopauloaramuni.github.io/image/bash.png?raw=true"/></a></td>-->
-    <td align="center"><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/GabrielDoti/GabrielDoti/blob/main/img/python.png"/></a></td>
+    <td align="center"><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/GabrielDoti/GabrielDoti/blob/main/img/python.png"/></a>Python</td>
     <!--<td align="center"><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/c.png?raw=true"/></a></td>-->
     <!--<td align="center"><a href="https://isocpp.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/cpp.svg?raw=true"/></a></td>-->
     <!--<td align="center"><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/csharp.png?raw=true"/></a></td>-->
