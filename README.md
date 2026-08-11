@@ -73,7 +73,7 @@
  - ⚽ Sou atleticano, torço para o Galo. 🐓
  - 🇮🇹 Sou brasileiro nato e recentemente adquiri a cidadania italiana.
  <!--- 💬 Estou sempre aberto a trocar ideia sobre tecnologia, então me chama!-->
- - 📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/gabriel-doti-33691b423/) ou veja meus projetos no [GitHub](https://github.com/GabrielDoti).
+ - 📫 Me encontre no LinkedIn ou veja meus projetos no GitHub.
 </p>
 </div>
 </td>
