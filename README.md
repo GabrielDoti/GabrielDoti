@@ -79,7 +79,7 @@
 </td>
 <td>
 <div>
-<img alt="SVG" src="https://joaopauloaramuni.github.io/image/dev1b.svg?raw=true" width="340px" height="650px" />
+<img alt="SVG" src="https://github.com/GabrielDoti/GabrielDoti/blob/main/img/dev2.gif" width="140px" height="450px" />
 </div>
 </td>
 </tr>
