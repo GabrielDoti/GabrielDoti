@@ -128,7 +128,7 @@
     <p>HTML</p></td>
     <td align="center"><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/GabrielDoti/GabrielDoti/blob/main/img/css.svg"/></a>
     <p>CSS</p></td>
-    <td align="center"><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/GabrielDoti/GabrielDoti/blob/main/img/js.png"/>
+    <td align="center"><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/GabrielDoti/GabrielDoti/blob/main/img/js.png"/></a>
     <p>JavaScript</p></a></td>
     <!--<td align="center"><a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/react.png?raw=true"/></a></td>-->
     <!--<td align="center"><a href="https://docs.microsoft.com/pt-br/windows/win32/lwef/using-vbscript" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/vbs.png?raw=true"/></a></td>-->
