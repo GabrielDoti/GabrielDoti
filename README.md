@@ -67,12 +67,12 @@
 - 🎓 Sou estudante de Engenharia de Software na PUC Minas.
 - 💻 Já construí projetos com Python, HTML, CSS e JavaScript, e estou sempre testando coisas novas.
 - 🔍 Atualmente em busca da minha primeira oportunidade de estágio em Belo Horizonte.
-<!--- 🌐 Meus projetos incluem sites, um catálogo de filmes consumindo API -->
+ <!--- 🌐 Meus projetos incluem sites, um catálogo de filmes consumindo API -->
 - 🕹️ Nas horas vagas, gosto de jogar vários games  e ouvir música.
 - 📺 Curto séries procedurais, tipo The Mentalist, CSI, NCIS e Criminal Minds.
 - ⚽ Sou atleticano, torço para o Galo. 🐓
 - 🇮🇹 Sou brasileiro nato e recentemente adquiri a cidadania italiana.
-<!--- 💬 Estou sempre aberto a trocar ideia sobre tecnologia, então me chama!-->
+ <!--- 💬 Estou sempre aberto a trocar ideia sobre tecnologia, então me chama!-->
 - 📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/gabriel-doti-33691b423/) ou veja meus projetos no [GitHub](https://github.com/GabrielDoti).
 </p>
 </div>
