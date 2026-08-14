@@ -112,7 +112,7 @@
     <!--<td align="center"><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/c.png?raw=true"/></a></td>-->
     <!--<td align="center"><a href="https://isocpp.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/cpp.svg?raw=true"/></a></td>-->
     <!--<td align="center"><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/csharp.png?raw=true"/></a></td>-->
-    <td align="center"><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/java.png?raw=true"/></a>
+    <td align="center"><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/GabrielDoti/GabrielDoti/blob/main/img/java.png"/></a>
     <p>Java</p></td>
     <!--<td align="center"><a href="https://openjfx.io/" target="_blank"><img height="32" src="https://joaopauloaramuni.github.io/image/javafx.png?raw=true"/></a></td>
     <!--<td align="center"><a href="https://www.primefaces.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/primefaces.png?raw=true"/></a></td>-->
